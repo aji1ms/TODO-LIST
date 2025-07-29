@@ -1,4 +1,3 @@
-import React from 'react';
 import typeScriptimg from "../assets/image.webp";
 import reactimg from "../assets/image2.webp";
 
